@@ -45,13 +45,13 @@
 
 - [installation Of VS Code](#installationOfVSCode)
 
-- [Download the .deb package:](#Downloadthe.debpackage:)
+- [Download the .deb package:](#Downloadthe.debpackage)
 
-- [Install the package:](#Installthepackage:)
+- [Install the package:](#Installthepackage)
  
 - [Installation of node.js](#Installationofnode.js)
 
-- [Install the package:](#Installthepackage:)
+- [Install the package:](#Installthepackage)
 
 - [Install Cucumber Language Support:](#InstallCucumberLanguageSupport) 
 
