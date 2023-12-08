@@ -53,7 +53,7 @@
 
 - [Install the package:](#Installthepackage)
 
-- [Install Cucumber Language Support:](#InstallCucumberLanguageSupport) 
+- [Install Cucumber Language Support](#InstallCucumberLanguageSupport) 
 
 
 # Cucumber - Overview
@@ -351,11 +351,11 @@ UBUNTU_CODENAME=jammy<br>
 
     Using .deb package
 
-### Download the .deb package:
+### Download the .deb package
 
     Visit the VS Code download page and download the .deb package for Debian/Ubuntu.
 
-### Install the package:
+### Install the package
 
     Open the folder where the package is downloaded. And then open the terminal inside the folder and run the below command.
 
@@ -371,7 +371,7 @@ $ code .
 
     $ sudo snap install node --classic
 
-  ###   1. Install Cucumber Language Support:
+  ###   1. Install Cucumber Language Support
  * 1. Open Visual Studio Code.
 
     Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
@@ -380,7 +380,7 @@ $ code .
 
     Install the extension.
 
-* 2. Create a New Feature File:
+* 2. Create a New Feature File
 
     In your Visual Studio Code workspace, create a new feature file with the .feature extension (e.g., my.feature). You can do this by right-clicking on your project directory and selecting New File.
 * 3. Write Gherkin Scenarios:
@@ -432,17 +432,17 @@ Then I should see some result
     // [When] Describes the action or event that triggers the scenario.
     });
 
-    Then(I should see some result, () => {
+    Then(I should see some result, () => {Indent
     // [Then] Describes the expected outcome or result of the scenario.
     });
 
-* 7.Before Generating Step Definition Install the Package:
+* 7.Before Generating Step Definition Install the Package
 
     Make sure you have installed the @badeball/cypress-cucumber-preprocessor package. Run the following command in your project directory:
 
 npm install --save-dev @badeball/cypress-cucumber-preprocessor
 
-* 8.Type Declarations:
+* 8.Type Declarations
 
     If TypeScript is being used in your project, ensure that the required type declarations are installed. You can install the TypeScript types for this package by running:
 
