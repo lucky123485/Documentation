@@ -147,7 +147,7 @@ Ruby on Rails
 
 - Selenium
 - PicoContainer
-- [Spring Framewo](https://www.javatpoint.com/spring-tutorial)rk
+- Spring Framework
 - Watir
 
 
@@ -313,8 +313,8 @@ Many organisations prefer the Selenium framework for cross-browser compatibility
 
 - Running the Cucumber Selenium tests on real browsers and devices is essential.
 - Since
-- BrowserStack cloud testing supports [Selenium testing with Cucumber](https://www.browserstack.com/guide/automation-using-cucumber-selenium); sign up, choose the required device-browser-OS combination, and start testing websites.
-- With [BrowserStack Test Management](https://www.browserstack.com/test-management), teams can upload BDD-JSON based report upload using Cucumber. This enables you to sync test case reports on BrowserStack Test Management from your terminal.
+- BrowserStack cloud testing supports Selenium testing with Cucumber; sign up, choose the required device-browser-OS combination, and start testing websites.
+- With BrowserStack Test Management, teams can upload BDD-JSON based report upload using Cucumber. This enables you to sync test case reports on BrowserStack Test Management from your terminal.
 
 ### Summary
 
@@ -327,8 +327,8 @@ Many organisations prefer the Selenium framework for cross-browser compatibility
 
 ### Pre-requisites
 
-        Visual Studio code install
-        Node.js and npm (Node Package Manager) installed
+ Visual Studio code install
+ Node.js and npm (Node Package Manager) installed
 
 ### Environment
 
