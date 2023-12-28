@@ -346,10 +346,10 @@ BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"<br>
 PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"<br>
 UBUNTU_CODENAME=jammy<br>
 
-### installation Of VS Code
+### Installation Of VS Code
 
     there are many method of insatlling vs code in Ubantu Linux one is given below
-
+    
     Using .deb package
 
 ### Download the .deb package
