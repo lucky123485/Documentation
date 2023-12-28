@@ -134,7 +134,7 @@ Consider the example below for a better understanding:
 
 # Limitations of Behavior-driven development
 
-- Testers must have prior experience in [TDD (Test-driven Development)](https://www.browserstack.com/guide/what-is-test-driven-development) to work in BDD
+- Testers must have prior experience in TDD (Test-driven Development) to work in BDD
 - BDD approach may be ineffective if the requirements are not correctly analysed
 - Testers must have sufficient technical skills
 
