@@ -251,7 +251,7 @@ But I should see "Welcome Tom."
 
 And - additional test step that defines the 'action' performed
 
-And I write  "EmailAddress" with "Tomjohn\@gmail.com."
+And I write  "EmailAddress" with "Tomjohn@gmail.com."
 
 Given, When, Then, and, but are test steps. You can use them interchangeably. The interpreter doesn’t display any error. However, they will surely not make any ‘sense’ when read.
 
@@ -328,6 +328,7 @@ Many organisations prefer the Selenium framework for cross-browser compatibility
 ### Pre-requisites
 
  Visual Studio code install
+ 
  Node.js and npm (Node Package Manager) installed
 
 ### Environment
