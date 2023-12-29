@@ -373,7 +373,7 @@ installing Node.js by using command
 $ sudo snap install node --classic
 ```
 
-  ###   1. Install Cucumber Language Support
+  ###   Install Cucumber Language Support
  * 1. Open Visual Studio Code.
 
     Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
@@ -404,7 +404,7 @@ Then I should see some result
 
     Install the extension.
 
-* 5.Change the settings in step definitions generator
+* 5. Change the settings in step definitions generator
 
     Access the settings and search for Step Definition Generator. Modify the desired setting value.
     Save the updated settings.
@@ -419,7 +419,7 @@ Then I should see some result
 
     "step-definition-generator.async": false
 
-* 6.Generate a step definition using Cucumber Step Definitions Generator extension:
+* 6. Generate a step definition using Cucumber Step Definitions Generator extension:
 
     The extension can automatically create a new file for the step definition when you generate it. To do this, click an icon in the Editor Actions menu .
     The extension can also generate the step definition and copy it to the clipboard, which makes it easy to access and paste into the appropriate file. To use this option, you can again right-click on the feature file or click an icon in the Editor Actions menu.
@@ -438,7 +438,7 @@ Then I should see some result
     // [Then] Describes the expected outcome or result of the scenario.
     });
 
-* 7.Before Generating Step Definition Install the Package
+* 7. Before Generating Step Definition Install the Package
 
     Make sure you have installed the @badeball/cypress-cucumber-preprocessor package. Run the following command in your project directory:
 
@@ -446,7 +446,7 @@ Then I should see some result
 npm install --save-dev @badeball/cypress-cucumber-preprocessor
 ```
 
-* 8.Type Declarations
+* 8. Type Declarations
 
     If TypeScript is being used in your project, ensure that the required type declarations are installed. You can install the TypeScript types for this package by running:
 
