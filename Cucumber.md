@@ -463,25 +463,17 @@ Feature: User Login
   Scenario: Successful Login
   
     Given the user is on the login page
-    
     When the user enters valid credentials (username and password)
-    
     And clicks the login button
-    
-    Then the user should be redirected to the dashboard
-    
+    Then the user should be redirected to the dashboard 
     And the user should see a welcome message
 
   Scenario: Unsuccessful Login
   
     Given the user is on the login page
-    
     When the user enters invalid credentials
-    
     And clicks the login button
-    
     Then the user should see an error message
-    
     And should remain on the login page
     
 ### The output should be
