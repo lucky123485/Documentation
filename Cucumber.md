@@ -331,6 +331,8 @@ Many organisations prefer the Selenium framework for cross-browser compatibility
  
  Node.js and npm (Node Package Manager) installed
 
+ java Version 11.0.21
+
 ### Environment
 
 PRETTY_NAME="Ubuntu 22.04.3 LTS"<br>
@@ -519,5 +521,9 @@ Then('should remain on the login page', () => {
     // Implementation for verifying that the user remains on the login page
 });
 ```
+### To run the feature file 
 
+```
+path/to/your/feature/file.feature
+```
 
