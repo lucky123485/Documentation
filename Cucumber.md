@@ -450,4 +450,77 @@ npm install --save-dev @badeball/cypress-cucumber-preprocessor
 npm install --save-dev @types/cypress-cucumber-preprocessor
 
 
+## Example of scenario
+
+Feature: User Login
+
+  As a registered user
+  
+  I want to log in to my account
+  
+  So that I can access personalized features
+
+  Scenario: Successful Login
+  
+    Given the user is on the login page
+    
+    When the user enters valid credentials (username and password)
+    
+    And clicks the login button
+    
+    Then the user should be redirected to the dashboard
+    
+    And the user should see a welcome message
+
+  Scenario: Unsuccessful Login
+  
+    Given the user is on the login page
+    
+    When the user enters invalid credentials
+    
+    And clicks the login button
+    
+    Then the user should see an error message
+    
+    And should remain on the login page
+    
+### The output should be
+
+```
+    
+    const { Given, When, Then } = require('cucumber');
+
+Given('the user is on the login page', () => {
+    // Implementation for navigating to the login page
+});
+
+When('the user enters valid credentials', () => {
+    // Implementation for entering valid credentials
+});
+
+When('clicks the login button', () => {
+    // Implementation for clicking the login button
+});
+
+Then('the user should be redirected to the dashboard', () => {
+    // Implementation for verifying redirection to the dashboard
+});
+
+Then('the user should see a welcome message', () => {
+    // Implementation for verifying the presence of a welcome message
+});
+
+When('the user enters invalid credentials', () => {
+    // Implementation for entering invalid credentials
+});
+
+Then('the user should see an error message', () => {
+    // Implementation for verifying the presence of an error message
+});
+
+Then('should remain on the login page', () => {
+    // Implementation for verifying that the user remains on the login page
+});
+```
+
 
