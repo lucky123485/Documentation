@@ -348,29 +348,30 @@ UBUNTU_CODENAME=jammy<br>
 
 ### Installation Of VS Code
 
-    there are many method of insatlling vs code in Ubantu Linux one is given below
-    
-    Using .deb package
+Installing VS code using .deb package
 
 ### Download the .deb package
-
-    Visit the VS Code download page and download the .deb package for Debian/Ubuntu.
+Visit the VS Code download page and download the .deb package for Debian/Ubuntu.
 
 ### Install the package
 
-    Open the folder where the package is downloaded. And then open the terminal inside the folder and run the below command.
+Open the folder where the package is downloaded. And then open the terminal inside the folder and run the below command.
 
+   ```
    $ sudo apt install ./(FileName).deb
+   ```
 
-    After complition of installation open the VS Code by command given below.
+After complition of installation open the VS Code by command given below.
 
 $ code .
 
 ### Installation of node.js
 
-    installing Node.js by using command
+installing Node.js by using command
 
-    $ sudo snap install node --classic
+```
+$ sudo snap install node --classic
+```
 
   ###   1. Install Cucumber Language Support
  * 1. Open Visual Studio Code.
@@ -441,13 +442,17 @@ Then I should see some result
 
     Make sure you have installed the @badeball/cypress-cucumber-preprocessor package. Run the following command in your project directory:
 
+```
 npm install --save-dev @badeball/cypress-cucumber-preprocessor
+```
 
 * 8.Type Declarations
 
     If TypeScript is being used in your project, ensure that the required type declarations are installed. You can install the TypeScript types for this package by running:
 
+```
 npm install --save-dev @types/cypress-cucumber-preprocessor
+```
 
 
 ## Example of scenario
