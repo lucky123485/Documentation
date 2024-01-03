@@ -97,20 +97,6 @@ Cucumber BDD framework mainly consists of three major parts:
 - **Test Runner File:** In Cucumber, the test runner file executes the Cucumber feature files and coordinates the steps defined in those feature files with the corresponding step definitions.
 
 
-### Example of Cucumber Test
-
-Here’s an example of the Cucumber Test for checking the Login functionality for an existing user.
-
-Scenario: As an existing user, I want to log in successfully.
-
-Given:the user is on the Home page
-
-When:the user navigates to the Login page
-
-And:the user enters the username and password
-
-Then:the successful login message is displayed
-
 
 # BDD in Cucumber Automation
 
