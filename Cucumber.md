@@ -138,7 +138,7 @@ These ‘Features’ are further divided into ‘Scenarios’, which describe a 
 
 “Scenarios’ are defined by a series of ‘Steps’ which describe the flow in preconditions, actions, and results in keywords such as; Given, When, Then, And, and But.
 
-### important Terms used in Gherkin
+### Important terms used in Gherkin
 
 - Feature
 - Background
