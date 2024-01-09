@@ -5,55 +5,34 @@
 # Table of Content
 
 
-- [Cucumber - Overview](#Cucumber-Overview)
+# Table of Contents
 
-- [What is Cucumber Framework?](#WhatisCucumberFramework?)
+- [Cucumber - Overview](#cucumber---overview)
+- [What is Cucumber Framework?](#what-is-cucumber-framework)
+- [Benefits of using Cucumber Testing Tools](#benefits-of-using-cucumber-testing-tools)
+- [How does Cucumber work?](#how-does-cucumber-work)
+- [BDD in Cucumber Automation](#bdd-in-cucumber-automation)
+- [Benefits of BDD in Cucumber Framework](#benefits-of-bdd-in-cucumber-framework)
+- [Limitations of Behavior-driven development](#limitations-of-behavior-driven-development)
+- [Software tools supported by Cucumber](#software-tools-supported-by-cucumber)
+- [Which language is used in cucumber?](#which-language-is-used-in-cucumber)
+- [What is Gherkin?](#what-is-gherkin)
+- [How does Gherkin work?](#how-does-gherkin-work)
+- [Important Terms used in Gherkin](#important-terms-used-in-gherkin)
+- [Best practices of using Gherkin](#best-practices-of-using-gherkin)
+- [Advantages of Gherkin](#advantages-of-gherkin)
+- [Disadvantages of Gherkin](#disadvantages-of-gherkin)
+- [Cucumber with Selenium](#cucumber-with-selenium)
+- [Summary](#summary)
+- [Pre-requisites](#pre-requisites)
+- [Environment](#environment)
+- [Installation Of VS Code](#installation-of-vs-code)
+  - [Download the .deb package](#download-the-deb-package)
+  - [Install the package](#install-the-package)
+- [Installation of Node.js](#installation-of-nodejs)
+  - [Install the package](#install-the-package-1)
+  - [Install Cucumber Language Support](#install-cucumber-language-support)
 
-- [Benefits of using Cucumber Testing Tools](#BenefitsofusingCucumberTestingTools)
-
-- [How does Cucumber work?](#HowdoesCucumberwork?)
-
-- [BDD in Cucumber Automation](#BDDinCucumberAutomation)
-
-- [Benefits of BDD in Cucumber Framework](#BenefitsofBDDinCucumberFramework)
-
-- [Limitations of Behavior-driven development](#LimitationsofBehaviordrivendevelopment)
-
-- [Software tools supported by Cucumber](#SoftwaretoolssupportedbyCucumber)
-
-- [Which language is used in cucumber?](Whichlanguageisusedincucumber?)
-
-- [What is Gherkin?](#WhatisGherkin?)
-
-- [How does Gherkin work?](#HowdoesGherkinwork?)
-
-- [important Terms used in Gherkin](#importantTermsusedinGherkin)
-
-- [Best practices of using Gherkin](#BestpracticesofusingGherkin)
-
-- [Advantages of Gherkin](#AdvantagesofGherkin)
-
-- [Disadvantages of Gherkin](#DisadvantagesofGherkin)
-
-- [Cucumber with Selenium](#CucumberwithSelenium)
-
-- [Summary](#Summary)
-
-- [Pre-requisites](#Pre-requisites)
-
-- [Environment](#Environment)
-
-- [installation Of VS Code](#installationOfVSCode)
-
-- [Download the .deb package:](#Downloadthe.debpackage)
-
-- [Install the package:](#Installthepackage)
- 
-- [Installation of node.js](#Installationofnode.js)
-
-- [Install the package:](#Installthepackage)
-
-- [Install Cucumber Language Support](#InstallCucumberLanguageSupport) 
 
 
 # Cucumber - Overview
