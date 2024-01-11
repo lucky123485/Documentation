@@ -2,9 +2,6 @@
 
 
 
-# Table of Content
-
-
 # Table of Contents
 
 - [Cucumber - Overview](#cucumber---overview)
