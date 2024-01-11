@@ -8,7 +8,6 @@
 # Table of Contents
 
 - [Cucumber - Overview](#cucumber---overview)
-- [What is Cucumber Framework?](#what-is-cucumber-framework)
 - [Benefits of using Cucumber Testing Tools](#benefits-of-using-cucumber-testing-tools)
 - [How does Cucumber work?](#how-does-cucumber-work)
 - [BDD in Cucumber Automation](#bdd-in-cucumber-automation)
@@ -28,7 +27,6 @@
 - [Environment](#environment)
 - [Installation Of VS Code](#installation-of-vs-code)
   - [Download the .deb package](#download-the-deb-package)
-  - [Install the package](#install-the-package)
 - [Installation of Node.js](#installation-of-nodejs)
   - [Install the package](#install-the-package-1)
   - [Install Cucumber Language Support](#install-cucumber-language-support)
