@@ -24,7 +24,7 @@
 - [Environment](#environment)
 - [Installation Of VS Code](#installation-of-vs-code)
   - [Download the .deb package](#download-the-deb-package)
-  - [Install the package](#install-the-package-1)
+  - [Install the package](#install-the-package)
 - [Installation of Node.js](#installation-of-nodejs)
   - [Install Cucumber Language Support](#install-cucumber-language-support)
 
