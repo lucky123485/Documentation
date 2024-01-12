@@ -491,3 +491,5 @@ https://www.browserstack.com/guide/learn-about-cucumber-testing-tool
 
 https://automationpanda.files.wordpress.com/2017/10/cucumber.png?w=1200
 
+https://www.guru99.com/gherkin-test-cucumber.html
+
